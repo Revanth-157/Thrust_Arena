@@ -1,28 +1,19 @@
 # 🚀 Thrust Arena
 
-A real-time rocket telemetry and thrust visualization platform built to analyze avionics sensor data collected during rocket flight.
+A backend system for processing rocket avionics telemetry data. The project is designed to ingest sensor readings, process flight parameters, and provide a scalable foundation for future real-time monitoring and visualization tools.
 
-## Features
+## Current Features
 
-- 🚀 Real-time thrust visualization
-- 📡 Live telemetry monitoring
-- 📈 Interactive graphs for sensor data
-- 🛰 Flight performance analysis
-- ⚡ Sensor data processing pipeline
-- 📊 Post-flight analysis and visualization
+- 📡 Telemetry data processing
+- 🚀 Thrust data management
+- 📊 Sensor data parsing
+- ⚙ Modular backend architecture
+- 🔌 API-ready design
 
-## Technologies
+## Planned Features
 
-- C++
-- Godot
-- Serial Communication
-- Avionics Sensors
-- Data Visualization
-
-## Future Improvements
-
-- Live dashboard
-- Flight replay
-- Data export (CSV)
-- GPS trajectory visualization
-- Multi-flight comparison
+- 📈 Real-time telemetry dashboard
+- 🛰 Live flight monitoring
+- 📍 GPS trajectory visualization
+- 📉 Flight analytics
+- 📁 Data export and replay
